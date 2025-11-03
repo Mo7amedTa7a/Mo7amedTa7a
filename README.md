@@ -17,6 +17,8 @@ I'm a passionate **Front End React Developer** with expertise in building dynami
   - Firebase
   - Postman
 
+---
+
 ###  Projects
 
 Here are some of my personal projects:
@@ -26,15 +28,21 @@ Here are some of my personal projects:
 - [Electronic Devices Store](https://github.com/Mo7amedTa7a/Electronic-devices-Store): An e-commerce store for electronic devices using MERN stack.
 - [Sport Store](https://github.com/Mo7amedTa7a/Sport-Store): A fully-functional online store for sporting goods built with React and Redux.
 
+---
+
 ###  GitHub Stats
 
 ![MohamedTaha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedTaha&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+---
+
 ###  Get in Touch
 
-- WhatsApp: [Click to chat](https://wtsi.me/201153303915)
-- Gmail: [mohamedtaha1625@gmail.com](mailto:mohamedtaha1625@gmail.com)
-- LinkedIn: [Mohamed Taha](https://www.linkedin.com/in/mo7amed-ta7a/)
-- Portfolio: [mohamedtaha.dev](https://mo7amedta7a.github.io/portifolio/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wtsi.me/201153303915)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo7amed-ta7a/)
+[![Email](https://img.shields.io/badge/Email-0288D1?style=flat&logo=gmail&logoColor=white)](mailto:mohamedtaha1625@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://mo7amedta7a.github.io/portifolio/)
+
+---
 
 ###  Let's build something amazing together!

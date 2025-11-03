@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Mohamed Taha - Front End React Developer
+#  Hi, I'm Mohamed Taha - Front End React Developer
 
 I'm a passionate **Front End React Developer** with expertise in building dynamic, responsive, and user-friendly web applications. I specialize in **HTML**, **CSS**, **JavaScript**, **React**, and **Redux**, and I have a strong design sense with proficiency in **Figma**.
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 - **Frontend:**
   - React.js
@@ -17,7 +17,7 @@ I'm a passionate **Front End React Developer** with expertise in building dynami
   - Firebase
   - Postman
 
-### 💼 Projects
+###  Projects
 
 Here are some of my personal projects:
 
@@ -26,15 +26,15 @@ Here are some of my personal projects:
 - [Electronic Devices Store](https://github.com/Mo7amedTa7a/Electronic-devices-Store): An e-commerce store for electronic devices using MERN stack.
 - [Sport Store](https://github.com/Mo7amedTa7a/Sport-Store): A fully-functional online store for sporting goods built with React and Redux.
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 ![MohamedTaha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedTaha&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-### 📬 Get in Touch
+###  Get in Touch
 
 - WhatsApp: [Click to chat](https://wtsi.me/201153303915)
 - Gmail: [mohamedtaha1625@gmail.com](mailto:mohamedtaha1625@gmail.com)
 - LinkedIn: [Mohamed Taha](https://www.linkedin.com/in/mo7amed-ta7a/)
 - Portfolio: [mohamedtaha.dev](https://mo7amedta7a.github.io/portifolio/)
 
-### 🚀 Let's build something amazing together!
+###  Let's build something amazing together!

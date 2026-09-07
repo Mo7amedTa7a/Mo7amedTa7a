@@ -1,329 +1,428 @@
 <div align="center">
 
-# Mohamed Taha
+# MOHAMED TAHA
 
-### MERN Stack Developer
+### MERN STACK DEVELOPER
 
-**React.js · Node.js · Express.js · MongoDB**
+**Building modern full-stack applications with React, Node.js & MongoDB**
+
+<br />
 
 <a href="https://mhmedtaha.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/Mo7amedTa7a">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/mohamed-taha-5398942a5">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+### FULL-STACK DEVELOPMENT · REST APIs · DATABASES · MODERN UI
 
 </div>
 
 ---
 
-## Profile
+## `01` — PROFILE
 
-MERN Stack Developer experienced in building full-stack web applications using **React.js, Node.js, Express.js, and MongoDB**.
+I'm **Mohamed Taha**, a **MERN Stack Developer** focused on building production-oriented web applications from frontend interfaces to backend APIs and database architecture.
 
-Skilled in developing **RESTful APIs, authentication and authorization systems, database-driven applications, responsive user interfaces, and scalable application architectures**.
+I work with the **MERN ecosystem** to create applications that are:
 
-Experienced with modern frontend development, backend API development, state management, database design, and production deployment using technologies such as **Redux Toolkit, Mongoose, JWT, Docker, Nginx, and PM2**.
+```text
+Scalable        Maintainable        Responsive        Secure
+```
 
----
+My development experience covers:
 
-## Technical Skills
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite" height="42" />
-</p>
-
-**React.js · JavaScript ES6+ · TypeScript · HTML5 · CSS3 · React Router · Material UI · Bootstrap · Vite · Responsive Design**
-
-### State Management & API
-
-<p>
-  <img src="https://skillicons.dev/icons?i=redux" height="42" />
-</p>
-
-**Redux Toolkit · Axios · REST API Integration · API Error Handling**
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="42" />
-</p>
-
-**Node.js · Express.js · RESTful APIs · MVC · Middleware · CRUD · JWT · Authentication · Authorization · Validation**
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="42" />
-</p>
-
-**MongoDB · Mongoose · SQL · Database Design · Relationships · Indexing**
-
-### Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,npm" height="42" />
-</p>
-
-**Git · GitHub · Docker · Nginx · PM2 · Postman · npm**
+* Modern React applications
+* RESTful API development
+* Authentication & Authorization
+* Role-Based Access Control
+* Database design and optimization
+* State management
+* API integration
+* Responsive UI development
+* Production deployment
 
 ---
 
-# Experience
+## `02` — CORE STACK
+
+<div align="center">
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite" />
+
+<br />
+
+`React.js` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Vite`
+
+`React Router` · `Redux Toolkit` · `Material UI` · `Bootstrap`
+
+<br /><br />
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br />
+
+`Node.js` · `Express.js` · `REST APIs` · `MVC`
+
+`JWT` · `Authentication` · `Authorization` · `Middleware` · `Validation`
+
+<br /><br />
+
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br />
+
+`MongoDB` · `Mongoose` · `SQL`
+
+`Database Design` · `Relationships` · `Indexing`
+
+<br /><br />
+
+### TOOLS & DEVOPS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,npm" />
+
+<br />
+
+`Git` · `GitHub` · `Docker` · `Nginx` · `PM2` · `Postman` · `npm`
+
+</div>
+
+---
+
+## `03` — WHAT I BUILD
+
+<table>
+<tr>
+<td width="50%">
+
+### Web Applications
+
+Modern responsive applications with React.js, reusable components, routing and state management.
+
+</td>
+
+<td width="50%">
+
+### REST APIs
+
+Structured backend services using Node.js, Express.js, MongoDB and JWT authentication.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Business Systems
+
+Management systems, dashboards, role-based platforms and workflow-driven applications.
+
+</td>
+
+<td width="50%">
+
+### Full-Stack Platforms
+
+Complete applications connecting modern React interfaces with scalable backend architectures.
+
+</td>
+</tr>
+</table>
+
+---
+
+# `04` — SELECTED WORK
 
 ## Restaurant Web Application
 
-**Front-End Developer · Freelance · 2026**
+**Frontend Development · 2026**
 
-Responsive restaurant ordering application focused on delivering a modern and user-friendly ordering experience.
+A production-style restaurant ordering experience built around a modern React architecture.
 
-**Responsibilities & Features**
+**What I worked on**
 
-* Developed responsive restaurant interfaces using React.js
-* Implemented product search and filtering
-* Built product details and shopping cart functionality
-* Managed global state using Redux Toolkit
-* Implemented protected routes
-* Integrated REST APIs using Axios
-* Added lazy loading for improved application performance
-* Implemented error boundaries
-* Added persistent cart functionality
+```text
+Search & Filtering
+       │
+Product Details
+       │
+Shopping Cart
+       │
+Redux State Management
+       │
+Protected Routes
+       │
+REST API Integration
+```
 
-**Stack:** `React` `Redux Toolkit` `React Router` `Axios` `Material UI`
+**Key implementation**
 
-**Project:**
-[Live Application](https://maximum-fast-food.vercel.app/)
+* Redux Toolkit state management
+* Axios API integration
+* Protected routing
+* Persistent cart
+* Lazy loading
+* Error boundaries
+* Responsive interface
+
+**Stack**
+
+`React` `Redux Toolkit` `React Router` `Axios` `Material UI`
+
+<a href="https://maximum-fast-food.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-Visit-000000?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 
 ---
 
 ## Mazad Om
 
-**MERN Stack Developer · Freelance · 2026**
+**MERN Stack · 2026**
 
-Full-stack marketplace and auction platform developed using the MERN stack.
+A full-stack marketplace and auction platform designed around complex business workflows.
 
-**Responsibilities & Features**
+**Core Systems**
 
-* Developed frontend and backend application features
-* Implemented authentication and authorization
-* Implemented role-based access control
-* Developed auction functionality
-* Implemented wallet management
-* Worked with escrow and installment workflows
-* Integrated real-time notifications
-* Developed administrative functionality
+`Authentication` `RBAC` `Auctions` `Wallets` `Escrow`
 
-**Stack:** `React` `Node.js` `Express.js` `MongoDB`
+`Installments` `Notifications` `Admin Dashboard`
+
+**Stack**
+
+`React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
 ## Generation Health
 
-**MERN Stack Developer · Freelance · 2026**
+**MERN Stack · 2026**
 
-Healthcare platform designed to manage appointments, telemedicine services, and electronic medical records.
+Healthcare platform focused on appointments, telemedicine and electronic medical records.
 
-**Responsibilities & Features**
+**Core Systems**
 
-* Developed healthcare application interfaces
-* Implemented authentication and authorization
-* Built appointment management functionality
-* Worked on telemedicine features
-* Implemented electronic medical record workflows
-* Developed role-based dashboards
-* Contributed to production deployment
+`Authentication` `Appointments` `Telemedicine`
 
-**Stack:** `React` `Node.js` `Express.js` `MongoDB`
+`Medical Records` `Role-Based Dashboards`
+
+**Stack**
+
+`React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-## Portfolio Website
+## Gym Management API
 
-**Front-End Developer · Freelance · 2025**
+**Backend Development · 2026**
 
-Modern multilingual portfolio website built with React and Material UI.
+RESTful backend architecture for managing gym operations.
 
-**Features**
+**Architecture**
 
-* Responsive user interface
-* Dark / Light mode
-* RTL / LTR support
-* Multilingual interface
-* Dashboard functionality
-* Modern component-based architecture
+```text
+Routes
+  ↓
+Controllers
+  ↓
+Services / Business Logic
+  ↓
+Mongoose Models
+  ↓
+MongoDB
+```
 
-**Stack:** `React` `Material UI`
-
-**Project:**
-[Live Portfolio](https://mhmedtaha.vercel.app/)
-
----
-
-# Projects
-
-## Gym Management System
-
-**Backend RESTful API · 2026**
-
-RESTful backend API designed to manage gym operations and business workflows.
-
-**Features**
+**Implemented**
 
 * JWT authentication
 * Role-based authorization
 * CRUD operations
-* MongoDB and Mongoose
 * Request validation
 * Centralized error handling
+* MongoDB / Mongoose
 * MVC architecture
 
-**Stack:** `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
+**Stack**
 
-**Repository:**
-[GitHub Repository](https://github.com/Mo7amedTa7a/Gym_Project_BackEnd)
+`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
 
----
-
-## CureTap — Graduation Project
-
-**Front-End Developer · DEPI · 2025**
-
-Healthcare platform developed as part of the **Digital Egypt Pioneers Initiative (DEPI)**.
-
-**Features**
-
-* Doctor appointment booking
-* Video consultations
-* Pharmacy services
-* Role-based dashboards
-* Firebase authentication
-
-**Stack:** `React` `Firebase` `Material UI`
-
-**Project:**
-[Live Application](https://cure-tap.vercel.app/)
+<a href="https://github.com/Mo7amedTa7a/Gym_Project_BackEnd">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-View%20Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 ---
 
-## Student Housing Platform
+## CureTap
 
-**Backend Developer · University Project · 2025**
+**Graduation Project · DEPI · 2025**
 
-Backend system designed to connect students with property owners and simplify the student housing process.
+Healthcare application developed as part of the **Digital Egypt Pioneers Initiative**.
 
-**Features**
+**Core Features**
 
-* Student and property owner roles
-* Property management
-* Online payment integration
-* Digital contracts
-* Real-time notifications
-* Role-based access control
+`Doctor Appointments` `Video Consultations`
 
-**Stack:** `Node.js` `Express.js` `MongoDB`
+`Pharmacy Services` `Role-Based Dashboards`
+
+`Firebase Authentication`
+
+**Stack**
+
+`React` `Firebase` `Material UI`
+
+<a href="https://cure-tap.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-Visit-000000?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 
 ---
 
-# Education
+# `05` — EXPERIENCE
+
+### MERN Stack Developer — Freelance
+
+**2026**
+
+Worked on multiple production-oriented applications across:
+
+* Healthcare
+* Marketplace & Auctions
+* Restaurant & Ordering
+* Management Systems
+
+Responsibilities included frontend development, backend API development, authentication, database integration, state management and deployment.
+
+---
+
+### Front-End Developer — Freelance
+
+**2025 — 2026**
+
+Focused on building responsive React applications with modern component architecture, API integration, routing, state management and reusable UI systems.
+
+---
+
+# `06` — EDUCATION
 
 ### Bachelor's Degree
 
 **New Assiut University of Technology**
 
-2023 — 2027 · Assiut, Egypt
+`2023 — 2027` · Assiut, Egypt
 
 ---
 
-# Extracurricular Activities
+# `07` — COMMUNITY
 
-### Mentor — ICPC ATU Community
+### ICPC ATU Community
 
-**2025 — 2026**
+**Mentor · 2025 — 2026**
 
-Mentored university students in competitive programming and problem solving.
+Mentoring university students in competitive programming and problem solving.
 
-### Member — GDG Assiut
+### GDG Assiut
 
-**2024 — Present**
+**Member · 2024 — Present**
 
-Participated in technical events, workshops, and developer community activities.
+Participating in technical events, workshops and developer community activities.
 
-### Member — University Entrepreneurship Club
+### University Entrepreneurship Club
 
-**2025 — 2026**
+**Member · 2025 — 2026**
 
-Participated in activities focused on entrepreneurship, innovation, and startups.
-
----
-
-# Certifications
-
-* Front-End Development Diploma
-* Back-End Development Diploma
-* React Front-End Development — DEPI
-* AI for Business — NTI
-* Web Design — NTI
-* C Programming — TeraCourses
-* ECPC — Egyptian Collegiate Programming Contest / Problem Solving
+Participating in activities focused on entrepreneurship, innovation and startups.
 
 ---
 
-# Programming Languages
+# `08` — CERTIFICATIONS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,c,cpp,java,cs,python" height="42" />
-</p>
-
-**JavaScript · TypeScript · C · C++ · Java · C# · Python**
-
----
-
-# GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mo7amedTa7a&show_icons=true&hide_border=true&theme=transparent"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7amedTa7a&layout=compact&hide_border=true&theme=transparent"
-    height="170"
-  />
-</p>
+| Certification                 | Provider    |
+| ----------------------------- | ----------- |
+| Front-End Development Diploma | —           |
+| Back-End Development Diploma  | —           |
+| React Front-End Development   | DEPI        |
+| AI for Business               | NTI         |
+| Web Design                    | NTI         |
+| C Programming                 | TeraCourses |
+| ECPC — Problem Solving        | ECPC        |
 
 ---
 
-# Let's Connect
+# `09` — DEVELOPMENT
+
+<div align="center">
+
+### CURRENTLY FOCUSED ON
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,mongodb,docker" />
+
+<br /><br />
+
+**Advanced React · TypeScript · Node.js · Database Optimization**
+
+**System Design · Docker · Scalable Backend Architecture**
+
+</div>
+
+---
+
+# `10` — GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mo7amedTa7a&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7amedTa7a&layout=compact&hide_border=true&theme=transparent" height="165" />
+
+</div>
+
+---
+
+# `11` — CONNECT
 
 <div align="center">
 
 <a href="https://mhmedtaha.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/Mo7amedTa7a">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/mohamed-taha-5398942a5">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:mohamedtaha1625@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-<br>
+<br />
 
 <div align="center">
 
-**MERN Stack Developer · Building Full-Stack Applications · Always Learning**
+**MERN Stack Developer**
+
+*Building products, solving problems, and continuously improving.*
 
 </div>

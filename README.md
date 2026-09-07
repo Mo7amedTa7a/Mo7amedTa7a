@@ -1,30 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=MOHAMED%20TAHA&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:0d1117,100:161b22" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=MOHAMED%20TAHA&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:0d1117,100:161b22"
+  width="100%"
+/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+Full-Stack+Applications;Turning+Ideas+Into+Real+Products" />
+<img
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+Full-Stack+Applications;Turning+Ideas+Into+Real+Products"
+/>
 
 <br/>
 
 <a href="https://mhmedtaha.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-161b22?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Mo7amedTa7a">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-161b22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/mohamed-taha-5398942a5">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mohamedtaha1625@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mo7amedTa7a&label=Profile%20Views&color=161b22&style=flat"/>
+<img
+  src="https://komarev.com/ghpvc/?username=Mo7amedTa7a&label=Profile%20Views&color=161b22&style=flat"
+/>
 
 </div>
 
@@ -39,11 +46,11 @@ I work across the full stack using:
 - React.js for modern and responsive user interfaces
 - Node.js and Express.js for backend development
 - MongoDB and Mongoose for database architecture
-- RESTful APIs for communication between frontend and backend
+- RESTful APIs for frontend-backend communication
 - JWT for authentication and authorization
 - Redux Toolkit for scalable frontend state management
 
-I care about writing clean code, building reusable components, designing reliable APIs, and creating applications that are easy to maintain and scale.
+I care about clean code, reusable components, reliable APIs, secure authentication, and scalable application architecture.
 
 ---
 
@@ -88,6 +95,7 @@ Backend Development
 ├── Role-Based Access Control
 ├── CRUD Operations
 ├── Middleware Architecture
+├── Validation
 ├── Error Handling
 └── Database Design
 
@@ -106,9 +114,9 @@ Full-Stack Development
 
 ## Restaurant Web Application
 
-**Frontend Developer — React.js**
+**Front-End Developer — React.js**
 
-A modern restaurant ordering application focused on providing a smooth user experience.
+A modern restaurant ordering application focused on providing a smooth and responsive user experience.
 
 ### Features
 
@@ -131,7 +139,7 @@ A modern restaurant ordering application focused on providing a smooth user expe
 <div align="center">
 
 <a href="https://maximum-fast-food.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-58A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-58A6FF?style=for-the-badge"/>
 </a>
 
 </div>
@@ -142,7 +150,7 @@ A modern restaurant ordering application focused on providing a smooth user expe
 
 **Backend RESTful API**
 
-A complete backend system designed for managing gym operations.
+A backend system designed for managing gym operations and memberships.
 
 ### Features
 
@@ -165,7 +173,7 @@ A complete backend system designed for managing gym operations.
 <div align="center">
 
 <a href="https://github.com/Mo7amedTa7a/Gym_Project_BackEnd">
-<img src="https://img.shields.io/badge/GitHub-Source%20Code-58A6FF?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Source%20Code-58A6FF?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -236,7 +244,7 @@ Worked on authentication, authorization, wallets, escrow, installments, notifica
 
 **2026 · Saudi Arabia**
 
-Built and maintained healthcare application features including appointments, telemedicine, medical records, authentication, and role-based dashboards.
+Built healthcare application features including appointments, telemedicine, medical records, authentication, and role-based dashboards.
 
 Worked on backend APIs and production deployment using VPS, Caddy, SSL, and PM2.
 
@@ -317,6 +325,8 @@ Participated in entrepreneurship, innovation, and startup-related activities.
 
 </div>
 
+<br/>
+
 ```text
 Advanced Backend Architecture
         ↓
@@ -337,19 +347,56 @@ Production-Ready Applications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mo7amedTa7a&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Mo7amedTa7a&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"
+  height="180"
+/>
 
-<img src="https://streak-stats.demolab.com?user=Mo7amedTa7a&theme=github-dark-blue&hide_border=true" height="180"/>
+<img
+  src="https://streak-stats.demolab.com?user=Mo7amedTa7a&theme=github-dark-blue&hide_border=true"
+  height="180"
+/>
 
 </div>
 
 ---
 
-# Contribution Activity
+# Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mo7amedTa7a/Mo7amedTa7a/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="900"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Mo7amedTa7a&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
+  width="95%"
+/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mo7amedTa7a/Mo7amedTa7a/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mo7amedTa7a/Mo7amedTa7a/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Mo7amedTa7a/Mo7amedTa7a/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="900"
+  />
+
+</picture>
 
 </div>
 
@@ -359,7 +406,10 @@ Production-Ready Applications
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mo7amedTa7a&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Mo7amedTa7a&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Activity"
+  width="95%"
+/>
 
 </div>
 
@@ -369,7 +419,10 @@ Production-Ready Applications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7amedTa7a&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="400"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7amedTa7a&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  width="400"
+/>
 
 </div>
 
@@ -402,19 +455,19 @@ Reliable Products
 <div align="center">
 
 <a href="https://mhmedtaha.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-161b22?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-161b22?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/mohamed-taha-5398942a5">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mohamedtaha1625@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Mo7amedTa7a">
-<img src="https://img.shields.io/badge/GitHub-Follow-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-161b22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -423,6 +476,9 @@ Reliable Products
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=25&fontColor=ffffff&animation=fadeIn&color=0:161b22,100:0d1117" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=25&fontColor=ffffff&animation=fadeIn&color=0:161b22,100:0d1117"
+  width="100%"
+/>
 
 </div>

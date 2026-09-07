@@ -370,14 +370,6 @@ A digital healthcare platform designed to streamline communication, appointments
 
 ---
 
-# Education
-
-### Bachelor's Degree in Technology
-**New Assiut University of Technology**  
-`2023 - 2027` | Assiut, Egypt
-
----
-
 # Community & Leadership
 
 - **Mentor - ICPC ATU Community**: Mentored university students in algorithms, competitive programming, and problem solving.
@@ -432,30 +424,6 @@ A digital healthcare platform designed to streamline communication, appointments
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mo7amedTa7a/Mo7amedTa7a/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mo7amedTa7a/Mo7amedTa7a/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Mo7amedTa7a/Mo7amedTa7a/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="900"
-  />
-</picture>
 
 </div>
 

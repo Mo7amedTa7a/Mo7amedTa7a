@@ -296,7 +296,13 @@ A complete RESTful backend API engineered to handle member management, trainer s
 ---
 
 ## 03 - Mazad Om
+<div align="center">
 
+<a href="https://mazad-oman.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 ### Overview
 A full-stack marketplace and auction platform engineered for buying, selling, and managing auction-based products with financial workflows.
 
@@ -317,7 +323,13 @@ A full-stack marketplace and auction platform engineered for buying, selling, an
 ---
 
 ## 04 - Generation Health
+<div align="center">
 
+<a href="https://ghealth-mhmd.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 ### Overview
 A digital healthcare platform designed to streamline communication, appointments, and record management between patients and medical providers.
 

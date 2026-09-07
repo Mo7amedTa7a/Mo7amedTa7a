@@ -1,24 +1,39 @@
-# Mohamed Taha
+<h1 align="center">Mohamed Taha</h1>
 
-### MERN Stack Developer
+<h3 align="center">MERN Stack Developer</h3>
 
-Building modern, scalable and user-focused web applications with the MERN stack.
+<p align="center">
+  React.js · Node.js · Express.js · MongoDB
+</p>
 
-I specialize in developing full-stack applications using **React.js, Node.js, Express.js and MongoDB**, with a focus on clean architecture, RESTful APIs, authentication, responsive interfaces and maintainable code.
+<p align="center">
+  <a href="https://github.com/Mo7amedTa7a">
+    <img src="https://img.shields.io/github/followers/Mo7amedTa7a?label=Followers&style=flat&logo=github" />
+  </a>
+  <a href="https://github.com/Mo7amedTa7a?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://mhmedhussein.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## About Me
 
-* MERN Stack Developer focused on full-stack web development
-* Experienced with React.js and modern frontend architecture
-* Building RESTful APIs with Node.js and Express.js
-* Working with MongoDB and Mongoose
-* Implementing JWT authentication and role-based authorization
-* Using Redux Toolkit for scalable state management
-* Experienced with responsive UI development and API integration
-* Familiar with Docker, Nginx, PM2 and production deployment
-* Currently improving my knowledge of system design and scalable architectures
+I'm a MERN Stack Developer focused on building modern, scalable, and user-friendly web applications.
+
+I work across the full stack using React.js, Node.js, Express.js, and MongoDB. My main interests include RESTful API development, authentication and authorization, database design, responsive interfaces, and clean application architecture.
+
+- Building frontend applications with React.js and TypeScript
+- Developing RESTful APIs with Node.js and Express.js
+- Working with MongoDB and Mongoose
+- Implementing JWT authentication and role-based authorization
+- Managing application state using Redux Toolkit
+- Integrating frontend applications with REST APIs
+- Building responsive interfaces with Material UI and Bootstrap
+- Familiar with Docker, Nginx, PM2, and deployment workflows
 
 ---
 
@@ -27,42 +42,42 @@ I specialize in developing full-stack applications using **React.js, Node.js, Ex
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite" height="42" />
 </p>
 
-**React.js · TypeScript · JavaScript · HTML5 · CSS3 · Vite · React Router · Material UI · Bootstrap**
+React.js · TypeScript · JavaScript · HTML5 · CSS3 · Vite · React Router · Material UI · Bootstrap
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="42" />
 </p>
 
-**Node.js · Express.js · REST APIs · MVC · JWT · Authentication · Authorization · Middleware**
+Node.js · Express.js · RESTful APIs · MVC Architecture · Middleware · CRUD · JWT · Authentication · Authorization
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="42" />
 </p>
 
-**MongoDB · Mongoose · SQL · Database Design · Indexing**
+MongoDB · Mongoose · SQL · Database Design · Relationships · Indexing
 
-### State Management & APIs
+### State Management and API
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redux" height="45"/>
+  <img src="https://skillicons.dev/icons?i=redux" height="42" />
 </p>
 
-**Redux Toolkit · Axios · REST API Integration**
+Redux Toolkit · Axios · REST API Integration
 
-### Tools & DevOps
+### Tools and DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,npm" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,npm" height="42" />
 </p>
 
-**Git · GitHub · Docker · Nginx · PM2 · Postman · npm**
+Git · GitHub · Docker · Nginx · PM2 · Postman · npm
 
 ---
 
@@ -70,44 +85,48 @@ I specialize in developing full-stack applications using **React.js, Node.js, Ex
 
 ### Restaurant Web Application
 
-A modern responsive restaurant ordering platform built with React.
+A responsive restaurant ordering application built with React.
 
-**Key Features**
+**Main Features**
 
-* Product search and filtering
-* Product details
-* Shopping cart
-* Redux Toolkit state management
-* Protected routes
-* REST API integration
-* Lazy loading
-* Error boundaries
-* Persistent cart
+- Product search and filtering
+- Product details
+- Shopping cart
+- Redux Toolkit state management
+- Protected routes
+- REST API integration
+- Lazy loading
+- Error boundaries
+- Persistent cart
 
-**Stack**
+**Technologies**
 
 `React` `Redux Toolkit` `React Router` `Axios` `Material UI`
 
-[Live Demo](https://maximum-fast-food.vercel.app/)
+<p>
+  <a href="https://maximum-fast-food.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### Mazad Om
 
-Full-stack marketplace and auction platform built with the MERN stack.
+A full-stack marketplace and auction platform built with the MERN stack.
 
-**Key Features**
+**Main Features**
 
-* Authentication and authorization
-* Role-based access control
-* Auction system
-* Wallet management
-* Escrow
-* Installment payments
-* Real-time notifications
-* Admin dashboard
+- Authentication and authorization
+- Role-based access control
+- Auction system
+- Wallet management
+- Escrow
+- Installment payments
+- Real-time notifications
+- Admin dashboard
 
-**Stack**
+**Technologies**
 
 `React` `Node.js` `Express.js` `MongoDB`
 
@@ -115,18 +134,18 @@ Full-stack marketplace and auction platform built with the MERN stack.
 
 ### Generation Health
 
-Healthcare platform for managing appointments, telemedicine and medical records.
+A healthcare platform designed to manage appointments, telemedicine, and medical records.
 
-**Key Features**
+**Main Features**
 
-* Authentication
-* Appointment management
-* Telemedicine
-* Electronic medical records
-* Role-based dashboards
-* Production deployment
+- Authentication
+- Appointment management
+- Telemedicine
+- Electronic medical records
+- Role-based dashboards
+- Production deployment
 
-**Stack**
+**Technologies**
 
 `React` `Node.js` `Express.js` `MongoDB`
 
@@ -134,104 +153,70 @@ Healthcare platform for managing appointments, telemedicine and medical records.
 
 ### Gym Management API
 
-RESTful backend API for managing gym operations.
+A RESTful backend API for managing gym operations.
 
-**Key Features**
+**Main Features**
 
-* JWT authentication
-* Role-based authorization
-* CRUD operations
-* MongoDB & Mongoose
-* Request validation
-* Centralized error handling
-* MVC architecture
+- JWT authentication
+- Role-based authorization
+- CRUD operations
+- MongoDB and Mongoose
+- Request validation
+- Centralized error handling
+- MVC architecture
 
-**Stack**
+**Technologies**
 
 `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
 
-[GitHub Repository](https://github.com/Mo7amedTa7a/Gym_Project_BackEnd)
+<p>
+  <a href="https://github.com/Mo7amedTa7a/Gym_Project_BackEnd">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### CureTap
 
-Healthcare application developed as part of the Digital Egypt Pioneers Initiative.
+A healthcare application developed as part of the Digital Egypt Pioneers Initiative.
 
-**Key Features**
+**Main Features**
 
-* Doctor appointments
-* Video consultations
-* Pharmacy services
-* Role-based dashboards
-* Firebase authentication
+- Doctor appointments
+- Video consultations
+- Pharmacy services
+- Role-based dashboards
+- Firebase authentication
 
-**Stack**
+**Technologies**
 
 `React` `Firebase` `Material UI`
 
-[Live Demo](https://cure-tap.vercel.app/)
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo7amedTa7a&show_icons=true&hide_border=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7amedTa7a&layout=compact&hide_border=true&theme=transparent" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mo7amedTa7a&hide_border=true&theme=transparent" />
+<p>
+  <a href="https://cure-tap.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## Contribution Graph
+## Development Workflow
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,mongodb,docker" height="45"/>
-</p>
-
-**Advanced React · TypeScript · Node.js · Database Optimization · System Design · Docker · Scalable Backend Architecture**
-
----
-
-## Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Mo7amedTa7a">
-<img src="https://cdn.simpleicons.org/github/181717" width="35"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/mohamed-taha-5398942a5">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="mailto:mohamedtaha1625@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="35"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://mhmedtaha.vercel.app/">
-<img src="https://cdn.simpleicons.org/vercel/000000" width="35"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <strong>Let's build something meaningful.</strong>
-</p>
+```text
+React.js
+   |
+   v
+Redux Toolkit
+   |
+   v
+REST API Integration
+   |
+   v
+Node.js + Express.js
+   |
+   v
+MongoDB + Mongoose
+   |
+   v
+Docker + Nginx + PM2

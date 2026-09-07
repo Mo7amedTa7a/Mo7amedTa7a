@@ -1,176 +1,123 @@
-# Hi, I'm Mohamed Taha 👋
+# Mohamed Taha
 
-### MERN Stack Developer | React.js | Node.js | MongoDB
+### MERN Stack Developer
 
-I'm a **MERN Stack Developer** passionate about building modern, scalable, and user-friendly web applications.
+Building modern, scalable and user-focused web applications with the MERN stack.
 
-I work across the full stack using **React.js, Node.js, Express.js, and MongoDB**, with a strong focus on clean architecture, RESTful APIs, authentication, responsive UI, and maintainable code.
-
----
-
-## 🚀 About Me
-
-* 💻 MERN Stack Developer focused on modern web development
-* ⚛️ Building responsive and scalable applications with **React.js**
-* 🟢 Developing RESTful APIs and backend systems with **Node.js & Express.js**
-* 🍃 Working with **MongoDB & Mongoose** for database design and management
-* 🔐 Implementing **JWT Authentication & Role-Based Authorization**
-* 🧩 Experienced with **Redux Toolkit** for state management
-* 🎨 Building modern interfaces using **Material UI & Bootstrap**
-* 🐳 Familiar with **Docker, Nginx, PM2, and deployment workflows**
-* 📚 Always learning and improving my software engineering skills
+I specialize in developing full-stack applications using **React.js, Node.js, Express.js and MongoDB**, with a focus on clean architecture, RESTful APIs, authentication, responsive interfaces and maintainable code.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+* MERN Stack Developer focused on full-stack web development
+* Experienced with React.js and modern frontend architecture
+* Building RESTful APIs with Node.js and Express.js
+* Working with MongoDB and Mongoose
+* Implementing JWT authentication and role-based authorization
+* Using Redux Toolkit for scalable state management
+* Experienced with responsive UI development and API integration
+* Familiar with Docker, Nginx, PM2 and production deployment
+* Currently improving my knowledge of system design and scalable architectures
+
+---
+
+## Tech Stack
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,vite" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite" height="45"/>
 </p>
 
-* React.js
-* JavaScript (ES6+)
-* TypeScript
-* HTML5
-* CSS3
-* React Router
-* Material UI
-* Bootstrap
-* Vite
-* Responsive Design
+**React.js · TypeScript · JavaScript · HTML5 · CSS3 · Vite · React Router · Material UI · Bootstrap**
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
 </p>
 
-* Node.js
-* Express.js
-* RESTful APIs
-* MVC Architecture
-* Middleware
-* CRUD Operations
-* JWT Authentication
-* Authorization
-* Error Handling
-* API Validation
+**Node.js · Express.js · REST APIs · MVC · JWT · Authentication · Authorization · Middleware**
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45"/>
 </p>
 
-* MongoDB
-* Mongoose
-* SQL
-* Database Design
-* Relationships & Indexing
+**MongoDB · Mongoose · SQL · Database Design · Indexing**
 
-### State Management & API
+### State Management & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=redux" height="45"/>
 </p>
 
-* Redux Toolkit
-* Axios
-* REST API Integration
+**Redux Toolkit · Axios · REST API Integration**
 
 ### Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,npm" height="45"/>
 </p>
 
-* Git & GitHub
-* Docker
-* Nginx
-* PM2
-* npm
-* Postman
+**Git · GitHub · Docker · Nginx · PM2 · Postman · npm**
 
 ---
 
-## 💼 What I Build
+## Featured Projects
 
-```text
-Frontend Applications
-        ↓
-React.js + TypeScript + Redux Toolkit
-        ↓
-REST API Integration
-        ↓
-Node.js + Express.js
-        ↓
-MongoDB + Mongoose
-```
+### Restaurant Web Application
 
-I enjoy building applications that combine a clean user experience with a solid backend architecture.
+A modern responsive restaurant ordering platform built with React.
 
-Some areas I've worked with:
+**Key Features**
 
-* 🛒 E-commerce Applications
-* 🍔 Restaurant & Ordering Systems
-* 🏥 Healthcare Platforms
-* 🏋️ Gym Management Systems
-* 🔨 Marketplace & Auction Platforms
-* 👤 Authentication & Authorization Systems
-* 📊 Admin Dashboards
-
----
-
-## 🌟 Featured Projects
-
-### 🍔 Restaurant Web App
-
-A responsive restaurant ordering application built with React.
-
-**Features:**
-
-* Product search & filtering
+* Product search and filtering
 * Product details
 * Shopping cart
 * Redux Toolkit state management
 * Protected routes
-* Axios API integration
+* REST API integration
 * Lazy loading
 * Error boundaries
 * Persistent cart
 
-**Tech:** `React` `Redux Toolkit` `React Router` `Axios` `Material UI`
+**Stack**
 
-🔗 [Live Demo](https://maximum-fast-food.vercel.app/)
+`React` `Redux Toolkit` `React Router` `Axios` `Material UI`
+
+[Live Demo](https://maximum-fast-food.vercel.app/)
 
 ---
 
-### 🔨 Mazad Om — Marketplace & Auction Platform
+### Mazad Om
 
-A full-stack marketplace and auction platform built using the MERN stack.
+Full-stack marketplace and auction platform built with the MERN stack.
 
-**Features:**
+**Key Features**
 
-* Authentication & Authorization
-* Role-Based Access Control
-* Auctions
-* Wallet system
+* Authentication and authorization
+* Role-based access control
+* Auction system
+* Wallet management
 * Escrow
 * Installment payments
 * Real-time notifications
 * Admin dashboard
 
-**Tech:** `React` `Node.js` `Express.js` `MongoDB`
+**Stack**
+
+`React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-### 🏥 Generation Health
+### Generation Health
 
-A healthcare platform designed to manage appointments, telemedicine, and medical records.
+Healthcare platform for managing appointments, telemedicine and medical records.
 
-**Features:**
+**Key Features**
 
 * Authentication
 * Appointment management
@@ -179,35 +126,39 @@ A healthcare platform designed to manage appointments, telemedicine, and medical
 * Role-based dashboards
 * Production deployment
 
-**Tech:** `React` `Node.js` `Express.js` `MongoDB`
+**Stack**
+
+`React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-### 🏋️ Gym Management API
+### Gym Management API
 
-A RESTful backend API for managing gym operations.
+RESTful backend API for managing gym operations.
 
-**Features:**
+**Key Features**
 
-* JWT Authentication
-* Role-Based Authorization
-* CRUD Operations
+* JWT authentication
+* Role-based authorization
+* CRUD operations
 * MongoDB & Mongoose
 * Request validation
 * Centralized error handling
 * MVC architecture
 
-**Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
+**Stack**
 
-🔗 [GitHub Repository](https://github.com/Mo7amedTa7a/Gym_Project_BackEnd)
+`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
+
+[GitHub Repository](https://github.com/Mo7amedTa7a/Gym_Project_BackEnd)
 
 ---
 
-### 🩺 CureTap — Graduation Project
+### CureTap
 
-A healthcare application developed as part of the **Digital Egypt Pioneers Initiative (DEPI)**.
+Healthcare application developed as part of the Digital Egypt Pioneers Initiative.
 
-**Features:**
+**Key Features**
 
 * Doctor appointments
 * Video consultations
@@ -215,63 +166,72 @@ A healthcare application developed as part of the **Digital Egypt Pioneers Initi
 * Role-based dashboards
 * Firebase authentication
 
-**Tech:** `React` `Firebase` `Material UI`
+**Stack**
 
-🔗 [Live Demo](https://cure-tap.vercel.app/)
+`React` `Firebase` `Material UI`
+
+[Live Demo](https://cure-tap.vercel.app/)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo7amedTa7a&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7amedTa7a&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo7amedTa7a&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7amedTa7a&layout=compact&hide_border=true&theme=transparent" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mo7amedTa7a&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Mo7amedTa7a&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-## 🎯 Currently Learning
+## Contribution Graph
 
-* Advanced React Patterns
-* TypeScript
-* Advanced Node.js & Express.js
-* Database Optimization
-* System Design
-* Docker & Deployment
-* Scalable Backend Architecture
-
----
-
-## 📫 Let's Connect
-
-<p>
-  <a href="https://linkedin.com/in/mohamed-taha-5398942a5">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:mohamedtaha1625@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://mhmedtaha.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Mo7amedTa7a">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## Currently Learning
 
-> I enjoy turning ideas into real-world applications and continuously learning new technologies.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,mongodb,docker" height="45"/>
+</p>
+
+**Advanced React · TypeScript · Node.js · Database Optimization · System Design · Docker · Scalable Backend Architecture**
 
 ---
 
-### 🚀 Let's build something amazing together!
+## Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Mo7amedTa7a">
+<img src="https://cdn.simpleicons.org/github/181717" width="35"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/mohamed-taha-5398942a5">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:mohamedtaha1625@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="35"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://mhmedtaha.vercel.app/">
+<img src="https://cdn.simpleicons.org/vercel/000000" width="35"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>Let's build something meaningful.</strong>
+</p>
